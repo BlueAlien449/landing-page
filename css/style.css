@@ -34,7 +34,6 @@ a{
 .header{
     background-color: #1F2937;
     color: #fff;
-    display: flex;
     padding: 200px 250px;
     justify-content: space-between;
 }
