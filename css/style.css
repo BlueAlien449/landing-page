@@ -66,3 +66,11 @@ a{
     border-style: none;
     background-color: #3882F6;
 }
+
+.middle{
+    justify-content: center;
+}
+
+.middle-text{
+    flex-direction: column;
+}
