@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
 
 *{
     font-family: 'Roboto', sans-serif;
@@ -104,4 +104,24 @@ a{
 
 .middle-text > h1{
     margin: 30px auto;
+}
+
+.banner{
+    background-color: #E5E7EB;
+    padding: 150px;
+    text-align: center;
+    justify-content: center;
+}
+
+.quote{
+    text-align: justify;
+    font-weight: 100;
+    font-size: 36px;
+    width: 820px;
+}
+
+.author{
+    font-weight: 700;
+    margin-left: auto;
+    width: 170px;
 }
