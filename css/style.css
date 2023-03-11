@@ -73,4 +73,35 @@ a{
 
 .middle-text{
     flex-direction: column;
+    margin: 0 0 100px 0 ;
+}
+
+.items-middle{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.placeholder{
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-radius: 15px;
+    color: #3882F6;
+    margin: auto;
+}
+
+.element{
+    width: 250px;
+    margin: auto;
+}
+
+
+.text-holder{
+    text-align: center;
+    margin: 10px auto;
+    width: 150px;
+}
+
+.middle-text > h1{
+    margin: 30px auto;
 }
