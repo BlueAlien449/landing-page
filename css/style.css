@@ -125,3 +125,30 @@ a{
     margin-left: auto;
     width: 170px;
 }
+
+.calltoaction{
+    padding: 100px 250px;
+}
+
+.container{
+    background-color: #3882F6;
+    border-radius: 5px;
+    justify-content: flex-end;
+    padding: 50px 150px;
+}
+
+.cta-text{
+    color: #fff;
+    margin-right: auto;
+}
+
+.cta-btn > button{
+    background-color: #3882F6;
+    border-color: #fff;
+    border-style: solid;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 7px 30px;
+}
